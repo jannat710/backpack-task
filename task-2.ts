@@ -1,3 +1,4 @@
+// 2.Task: Object Manipulation
 type Book = {
   title: string;
   author: string;

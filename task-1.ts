@@ -1,3 +1,4 @@
+// 1.Task: Array Filtering and Mapping
 type Person = {
   name: string;
   age: number;
